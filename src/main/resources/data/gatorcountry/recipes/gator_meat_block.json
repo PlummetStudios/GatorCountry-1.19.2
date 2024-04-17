@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "gatorcountry:slab_of_gator"
+    }
+  },
+  "result": {
+    "item": "gatorcountry:gator_meat_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "item.gatorcountry.slab_of_gator": "Slab of Gator",
+  "item.gatorcountry.banjo": "Banjo",
+  "item.gatorcountry.alligator_spawn_egg": "Alligator Spawn Egg",
+  "item.gatorcountry.gator_chow": "Gator Chow",
+  "item.gatorcountry.gator_gumbo": "Gator Gumbo",
+
+
+  "block.gatorcountry.gator_nest_block": "Nesting Block",
+  "block.gatorcountry.gator_egg": "Gator Egg",
+  "block.gatorcountry.gator_meat_block": "Gator Meat Block",
+
+  "advancement.gatorcountry.banjo_crafted.title": "Rainbow Connection",
+  "advancement.gatorcountry.banjo_crafted.description": "Craft a banjo!",
+
+  "entity.gatorcountry.alligator": "Alligator",
+
+  "death.attack.gator_thrash": "%1$s was turned into a chew toy by %2$s",
+  "death.attack.gator_chomp": "%1$s was chomped by %2$s"
+}

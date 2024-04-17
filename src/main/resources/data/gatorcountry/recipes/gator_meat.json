@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gatorcountry:gator_meat_block"
+    }
+  ],
+  "result": {
+    "item": "gatorcountry:slab_of_gator",
+    "count": 9
+  }
+}

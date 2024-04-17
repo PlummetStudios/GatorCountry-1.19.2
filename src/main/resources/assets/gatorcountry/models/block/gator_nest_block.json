@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "gatorcountry:block/gator_nest_top",
+    "side": "gatorcountry:block/gator_nest_side"
+  }
+}

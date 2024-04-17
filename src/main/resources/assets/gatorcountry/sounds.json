@@ -1,0 +1,21 @@
+{
+  "alligator_idle":
+  {
+    "subtitle": "gatorcountry.alligator_idle",
+    "sounds":
+            [
+              "gatorcountry:alligator_idle_1",
+              "gatorcountry:alligator_idle_2",
+              "gatorcountry:alligator_idle_3"
+            ]
+  },
+  "alligator_hurt":
+  {
+    "subtitle": "gatorcountry.alligator_hurt",
+    "sounds":
+    [
+      "gatorcountry:alligator_hurt_1",
+      "gatorcountry:alligator_hurt_2"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "gatorcountry:block/gator_nest_block_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "gatorcountry:block/gator_nest_block"
+    },
+    "axis=z": {
+      "model": "gatorcountry:block/gator_nest_block_horizontal",
+      "x": 90
+    }
+  }
+}

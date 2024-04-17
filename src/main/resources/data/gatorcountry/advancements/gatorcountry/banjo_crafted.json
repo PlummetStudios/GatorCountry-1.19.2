@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "gatorcountry:banjo"
+    },
+    "title": "Rainbow Connection",
+    "description": "Craft a banjo!",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "tag": "gatorcountry:banjo"
+          }
+        ]
+      }
+    }
+  }
+}

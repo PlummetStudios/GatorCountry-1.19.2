@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "gatorcountry:block/broken_gator_eggs",
+		"particle": "gatorcountry:block/broken_gator_eggs"
+	},
+	"elements": [
+		{
+			"name": "mediumEgg1",
+			"from": [8, 0, 5],
+			"to": [12, 5, 9],
+			"faces": {
+				"north": {"uv": [10, 5.5, 12, 8], "texture": "#0"},
+				"east": {"uv": [8, 5.5, 10, 8], "texture": "#0"},
+				"south": {"uv": [14, 5.5, 16, 8], "texture": "#0"},
+				"west": {"uv": [12, 5.5, 14, 8], "texture": "#0"},
+				"up": {"uv": [12, 5.5, 10, 3.5], "texture": "#0"},
+				"down": {"uv": [14, 3.5, 12, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "smallEgg",
+			"from": [3.5, 0, 6],
+			"to": [7.5, 4, 10],
+			"faces": {
+				"north": {"uv": [8, 10, 10, 12], "texture": "#0"},
+				"east": {"uv": [6, 10, 8, 12], "texture": "#0"},
+				"south": {"uv": [12, 10, 14, 12], "texture": "#0"},
+				"west": {"uv": [10, 10, 12, 12], "texture": "#0"},
+				"up": {"uv": [10, 10, 8, 8], "texture": "#0"},
+				"down": {"uv": [12, 8, 10, 10], "texture": "#0"}
+			}
+		}
+	]
+}
